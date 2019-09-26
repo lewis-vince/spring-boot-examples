@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "id": 343,
+    "name": "Greg"
+  },
+  "body": {
+    "results": [
+      {
+        "metadata": {
+          "id": 388,
+          "name": "Dave"
+        },
+        "address": "address 1",
+        "other": "test-other"
+      },
+      {
+        "metadata": {
+          "id": 3987,
+          "name": "Bob"
+        },
+        "address": "address 2",
+        "other": "test-other-2"
+      }
+    ]
+  }
+}

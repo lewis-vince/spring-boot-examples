@@ -1,0 +1,18 @@
+{
+  "test": {
+    "inner": {
+      "val": "test-test"
+    },
+    "testArr": [
+      {
+        "title": "object1",
+        "num": 55
+      },
+      {
+        "title": "object2",
+        "num": 3
+      }
+    ]
+  },
+  "rootString": "string"
+}

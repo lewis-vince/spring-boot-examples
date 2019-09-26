@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/camel-example/camel-example.iml" filepath="$PROJECT_DIR$/camel-example/camel-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-tree-walk/json-tree-walk.iml" filepath="$PROJECT_DIR$/json-tree-walk/json-tree-walk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-caching/redis-caching.iml" filepath="$PROJECT_DIR$/redis-caching/redis-caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-examples.iml" filepath="$PROJECT_DIR$/spring-boot-examples.iml" />
+    </modules>
+  </component>
+</project>

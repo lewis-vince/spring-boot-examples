@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="camel-example" />
+        <module name="json-tree-walk" />
+        <module name="redis-caching" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="camel-example" target="1.8" />
+      <module name="json-tree-walk" target="1.8" />
+      <module name="redis-caching" target="1.8" />
+      <module name="spring-boot-examples" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="camel-example" options="-parameters" />
+      <module name="json-tree-walk" options="-parameters" />
+      <module name="redis-caching" options="-parameters" />
+      <module name="spring-boot-examples" options="-parameters" />
+    </option>
+  </component>
+</project>

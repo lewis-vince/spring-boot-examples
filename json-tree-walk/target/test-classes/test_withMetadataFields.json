@@ -1,0 +1,39 @@
+{
+  "test": {
+    "inner": {
+      "val": "test-test",
+      "metadata": "metadata-1-obj"
+    },
+    "metadata": [
+      {
+        "toBeRemoved": "remove",
+        "toBeRemovedObj": {
+          "remove": "test"
+        }
+      },
+      {
+        "toBeRemoved": "remove-2",
+        "toBeRemovedObj": {
+          "remove": "test-2"
+        }
+      }
+    ],
+    "testArr": [
+      {
+        "title": "object1",
+        "num": 55,
+        "metadata": {
+          "testString": "test-string"
+        }
+      },
+      {
+        "title": "object2",
+        "num": 3,
+        "metadata": {
+          "testString": "test-string"
+        }
+      }
+    ]
+  },
+  "rootString": "string"
+}
